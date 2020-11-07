@@ -1,0 +1,42 @@
+Body {
+    margin: 0;
+    padding-top: 250px;
+    text-align: center;
+    background-image: linear-gradient(#157575 0%, #28fc56 100%);
+}
+
+#S1 {
+    margin: 5px;
+    width: 100%;
+    height: 100%;
+    font-family: 'Goldman', cursive;
+}
+
+#menu {
+    list-style: none;
+    position: absolute;
+    top: 20px;
+    right: 15px;
+    font-family: 'Lobster', cursive;
+}
+
+.link {
+    float: left;
+    color: aquamarine;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.link:hover {
+    background-color: coral;
+}
+
+img{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
